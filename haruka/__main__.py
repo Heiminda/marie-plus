@@ -134,7 +134,7 @@ def send_start(bot, update):
         pass
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
-    text = "name is pathus പാത്തുന്‍റെ ബോട്ട് 😜😜 !\n\"
+    text = "name is pathus പാത്തുന്‍റെ ബോട്ട് 😜😜\n\n"
 
 
     text += "This bot is hosted by @Anandus\n\n\
