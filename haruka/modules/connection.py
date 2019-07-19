@@ -190,7 +190,7 @@ Actions are available with connected groups:
  You can retrieve the chat id by using the /id command in your chat. Don't be surprised if the id is negative; all super groups have negative ids.
 """
 
-__mod_name__ = "Connections"
+__mod_name__ = "🖤🖤Connections🖤🖤"
 
 CONNECT_CHAT_HANDLER = CommandHandler("connect", connect_chat, allow_edited=True, pass_args=True)
 DISCONNECT_CHAT_HANDLER = CommandHandler("disconnect", disconnect_chat, allow_edited=True)
